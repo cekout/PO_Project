@@ -1,0 +1,4 @@
+Persona Giorgio Vanni 25 180
+Persona Cecchini Davide 21 200
+Persona Lorenzo Cazzaro 21 200
+Persona Tommaso Buoso 21 200

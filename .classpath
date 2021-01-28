@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Container_library/src"/>
+	<classpathentry kind="lib" path="org.eclipse.jdt.annotation_2.2.600.v20200408-1511.jar"/>
+	<classpathentry kind="output" path="Container_library/out/production/progettino_po"/>
+</classpath>
